@@ -1,0 +1,29 @@
+header{
+    background-color: black;
+    color: orange;
+    text-align: center;
+    font-size: 20px;
+}
+
+img{
+    width: 15px;
+    height: 20px;
+    
+}
+.izq{
+    float: left;
+}
+
+.der{
+    float: right;
+}
+
+body{
+    background-color: orange;
+    justify-content: center;
+}
+
+.enlaces {
+    display: flex;
+    justify-content: space-between;}
+    
